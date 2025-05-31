@@ -1,0 +1,48 @@
+.center {
+                position: relative;
+                left: 400px;
+                bottom: 30px;
+            }
+            h1.center
+            {
+                color:rgb(3, 25, 46);
+                font-family: "Lucida Console", "Courier New", monospace;
+                font-size: 3.5em;
+                position: relative;
+                top: 25px;
+            }
+            .blue
+            {
+                
+                font-family: "Lucida Console", "Courier New", monospace;
+                font-size: 1.7em;
+                color: rgb(3, 25, 46);
+                
+            }
+            p{
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                
+            }
+            .box1{
+                position: relative;
+                left: 140px;
+                font-size: 1.5em;
+            }
+            .box2{
+                width: 1400px;
+                border: 1px solid rgb(255, 248, 248);
+                margin-top: 50px;
+                margin-left: 200px;
+                background-color: rgb(226, 226, 181);
+                border-radius: 1%;
+            }
+            img{
+                clip-path: circle(50%);
+                position: relative;
+                left: 300px;
+                top: 210px;
+            }
+            h3.center{
+                position: relative;
+                bottom: 20px;
+            }
